@@ -7,3 +7,5 @@ echo(count($dico));
 
 echo "<br><br>";
 
+foreach ($dico as $dicokey => $dicovalue);
+
